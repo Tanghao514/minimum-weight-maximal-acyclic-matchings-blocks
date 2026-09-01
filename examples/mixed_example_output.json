@@ -1,0 +1,23 @@
+{
+  "cost": -3,
+  "cardinality": 2,
+  "matching": [
+    [
+      "b",
+      "c"
+    ],
+    [
+      "f",
+      "e"
+    ]
+  ],
+  "saturated_vertices": [
+    "b",
+    "e",
+    "c",
+    "f"
+  ],
+  "components": 1,
+  "blocks": 3,
+  "arithmetic_model": "O(n+m) arithmetic/comparison operations; ordinary O(n+m) word-RAM time when weights and intermediate values occupy O(1) machine words"
+}

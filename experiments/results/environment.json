@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-29",
+  "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "networkx": "3.6.1",
+  "matplotlib": "3.10.8",
+  "platform": "Linux-6.18.35-x86_64-with-glibc2.41",
+  "processor": "AMD EPYC 9V74 80-Core Processor",
+  "logical_cpu_count": 5,
+  "memory_total_gib": 5.931438446044922,
+  "benchmark_process_model": "fresh subprocess for every repetition",
+  "timing_clock": "time.perf_counter",
+  "case_count": 56,
+  "raw_run_count": 168
+}

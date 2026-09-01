@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite this release and the accompanying manuscript."
+title: "Six-State Block-Decomposition Solver for Minimum-Weight Maximal Acyclic Matchings"
+type: software
+authors:
+  - family-names: Tang
+    given-names: Hao
+version: 1.0.0
+date-released: 2026-09-01
+repository-code: "https://github.com/Tanghao514/minimum-weight-maximal-acyclic-matchings-blocks"
+license: MIT

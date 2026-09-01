@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "project": "mmacm-block-dp",
+  "declared_runtime_dependency": "networkx>=3.1",
+  "installed_networkx": "3.6.1",
+  "note": "Targeted project dependency check. A global pip check reports an unrelated pre-existing moviepy/Pillow conflict in the shared runtime."
+}

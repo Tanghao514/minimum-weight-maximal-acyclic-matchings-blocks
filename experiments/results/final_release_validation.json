@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "raw_scale_runs": 168,
+  "scale_cases": 56,
+  "repetitions_per_case": 3,
+  "weighted_unweighted_pairs": 28,
+  "all_scale_witnesses_valid": true,
+  "small_baseline_instances": 120,
+  "small_baseline_all_equal": true,
+  "correctness_audit_status": "PASS",
+  "max_sparse_vertices": 100000,
+  "max_explicit_edges": 499500,
+  "environment_raw_run_count": 168
+}

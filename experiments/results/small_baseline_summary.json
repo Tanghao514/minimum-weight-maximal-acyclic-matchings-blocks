@@ -1,0 +1,242 @@
+[
+  {
+    "family": "block_graph",
+    "vertices": 4,
+    "instances": 5,
+    "median_edges": 4,
+    "solver_median_seconds": 0.0007094289994711289,
+    "bruteforce_median_seconds": 0.00024224499975389335,
+    "speedup_median": 0.437649971699222,
+    "all_equal": true
+  },
+  {
+    "family": "block_graph",
+    "vertices": 6,
+    "instances": 5,
+    "median_edges": 8,
+    "solver_median_seconds": 0.0014412720011023339,
+    "bruteforce_median_seconds": 0.0017659010009083431,
+    "speedup_median": 1.4052623824891965,
+    "all_equal": true
+  },
+  {
+    "family": "block_graph",
+    "vertices": 8,
+    "instances": 5,
+    "median_edges": 13,
+    "solver_median_seconds": 0.001979041999220499,
+    "bruteforce_median_seconds": 0.0056287399984285,
+    "speedup_median": 2.9875302374556147,
+    "all_equal": true
+  },
+  {
+    "family": "block_graph",
+    "vertices": 10,
+    "instances": 5,
+    "median_edges": 17,
+    "solver_median_seconds": 0.0021145159989828244,
+    "bruteforce_median_seconds": 0.02059929499955615,
+    "speedup_median": 10.67920790219702,
+    "all_equal": true
+  },
+  {
+    "family": "block_graph",
+    "vertices": 12,
+    "instances": 5,
+    "median_edges": 20,
+    "solver_median_seconds": 0.002574388001448824,
+    "bruteforce_median_seconds": 0.05224677700061875,
+    "speedup_median": 27.355808708301396,
+    "all_equal": true
+  },
+  {
+    "family": "block_graph",
+    "vertices": 14,
+    "instances": 5,
+    "median_edges": 26,
+    "solver_median_seconds": 0.0033171670002047904,
+    "bruteforce_median_seconds": 0.1976870680009597,
+    "speedup_median": 59.59515091906895,
+    "all_equal": true
+  },
+  {
+    "family": "cactus",
+    "vertices": 4,
+    "instances": 5,
+    "median_edges": 4,
+    "solver_median_seconds": 0.0006374900003720541,
+    "bruteforce_median_seconds": 0.0002698360003705602,
+    "speedup_median": 0.48296945601166064,
+    "all_equal": true
+  },
+  {
+    "family": "cactus",
+    "vertices": 6,
+    "instances": 5,
+    "median_edges": 6,
+    "solver_median_seconds": 0.0006501900006696815,
+    "bruteforce_median_seconds": 0.0009394659991812659,
+    "speedup_median": 1.4105397167390465,
+    "all_equal": true
+  },
+  {
+    "family": "cactus",
+    "vertices": 8,
+    "instances": 5,
+    "median_edges": 8,
+    "solver_median_seconds": 0.0012946500010002637,
+    "bruteforce_median_seconds": 0.0025824509993981337,
+    "speedup_median": 1.8124944965085736,
+    "all_equal": true
+  },
+  {
+    "family": "cactus",
+    "vertices": 10,
+    "instances": 5,
+    "median_edges": 11,
+    "solver_median_seconds": 0.0016568669998378027,
+    "bruteforce_median_seconds": 0.007568963999801781,
+    "speedup_median": 4.2227625217624265,
+    "all_equal": true
+  },
+  {
+    "family": "cactus",
+    "vertices": 12,
+    "instances": 5,
+    "median_edges": 13,
+    "solver_median_seconds": 0.0014231850000214763,
+    "bruteforce_median_seconds": 0.03074356899924169,
+    "speedup_median": 22.391997430738037,
+    "all_equal": true
+  },
+  {
+    "family": "cactus",
+    "vertices": 14,
+    "instances": 5,
+    "median_edges": 16,
+    "solver_median_seconds": 0.0016279029987344984,
+    "bruteforce_median_seconds": 0.07923715200013248,
+    "speedup_median": 41.94669526012773,
+    "all_equal": true
+  },
+  {
+    "family": "mixed",
+    "vertices": 4,
+    "instances": 5,
+    "median_edges": 4,
+    "solver_median_seconds": 0.0005859529992449097,
+    "bruteforce_median_seconds": 0.00029074800113448873,
+    "speedup_median": 0.46636382263819914,
+    "all_equal": true
+  },
+  {
+    "family": "mixed",
+    "vertices": 6,
+    "instances": 5,
+    "median_edges": 6,
+    "solver_median_seconds": 0.0007648419996257871,
+    "bruteforce_median_seconds": 0.0011418609992688289,
+    "speedup_median": 1.6109026454225952,
+    "all_equal": true
+  },
+  {
+    "family": "mixed",
+    "vertices": 8,
+    "instances": 5,
+    "median_edges": 10,
+    "solver_median_seconds": 0.0010012389993789839,
+    "bruteforce_median_seconds": 0.0032192399994528387,
+    "speedup_median": 4.958100316250379,
+    "all_equal": true
+  },
+  {
+    "family": "mixed",
+    "vertices": 10,
+    "instances": 5,
+    "median_edges": 11,
+    "solver_median_seconds": 0.0009250040002370952,
+    "bruteforce_median_seconds": 0.00961842099968635,
+    "speedup_median": 10.837184657643888,
+    "all_equal": true
+  },
+  {
+    "family": "mixed",
+    "vertices": 12,
+    "instances": 5,
+    "median_edges": 16,
+    "solver_median_seconds": 0.002143370000339928,
+    "bruteforce_median_seconds": 0.037279136000506696,
+    "speedup_median": 18.016437946751854,
+    "all_equal": true
+  },
+  {
+    "family": "mixed",
+    "vertices": 14,
+    "instances": 5,
+    "median_edges": 17,
+    "solver_median_seconds": 0.002229509000244434,
+    "bruteforce_median_seconds": 0.11623625599895604,
+    "speedup_median": 53.93153526234163,
+    "all_equal": true
+  },
+  {
+    "family": "multipartite",
+    "vertices": 4,
+    "instances": 5,
+    "median_edges": 3,
+    "solver_median_seconds": 0.0008419490004598629,
+    "bruteforce_median_seconds": 0.0001485840002715122,
+    "speedup_median": 0.17647624759974453,
+    "all_equal": true
+  },
+  {
+    "family": "multipartite",
+    "vertices": 6,
+    "instances": 5,
+    "median_edges": 6,
+    "solver_median_seconds": 0.0011165519990754547,
+    "bruteforce_median_seconds": 0.0005059020004409831,
+    "speedup_median": 0.619696952759704,
+    "all_equal": true
+  },
+  {
+    "family": "multipartite",
+    "vertices": 8,
+    "instances": 5,
+    "median_edges": 9,
+    "solver_median_seconds": 0.0015054380000947276,
+    "bruteforce_median_seconds": 0.0021306500002538087,
+    "speedup_median": 1.4317421877073924,
+    "all_equal": true
+  },
+  {
+    "family": "multipartite",
+    "vertices": 10,
+    "instances": 5,
+    "median_edges": 11,
+    "solver_median_seconds": 0.0021073150001029717,
+    "bruteforce_median_seconds": 0.00547976599955291,
+    "speedup_median": 2.600354479176178,
+    "all_equal": true
+  },
+  {
+    "family": "multipartite",
+    "vertices": 12,
+    "instances": 5,
+    "median_edges": 16,
+    "solver_median_seconds": 0.0026987969995388994,
+    "bruteforce_median_seconds": 0.029624704000525526,
+    "speedup_median": 10.381086578276609,
+    "all_equal": true
+  },
+  {
+    "family": "multipartite",
+    "vertices": 14,
+    "instances": 5,
+    "median_edges": 17,
+    "solver_median_seconds": 0.0030270810002548387,
+    "bruteforce_median_seconds": 0.06026639999981853,
+    "speedup_median": 16.756916224469503,
+    "all_equal": true
+  }
+]

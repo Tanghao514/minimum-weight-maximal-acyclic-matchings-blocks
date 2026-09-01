@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "date": "2026-08-29",
+  "atlas_nonempty_graphs": 1252,
+  "atlas_target_class_graphs": 447,
+  "atlas_solver_vs_bruteforce_instances": 1341,
+  "atlas_weighted_instances": 894,
+  "atlas_reconstructed_witnesses_checked": 1341,
+  "checker_definition_equivalence_matchings": 8734,
+  "random_small_instances": 360,
+  "unsupported_block_rejection": true,
+  "maximum_atlas_order": 7,
+  "maximum_atlas_edges": 21,
+  "elapsed_seconds": 6.757556264999948,
+  "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "networkx": "3.6.1"
+}
